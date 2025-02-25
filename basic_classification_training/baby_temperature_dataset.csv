@@ -1,0 +1,1001 @@
+Object Temp (°C),Status
+39.6,High Fever
+38.8,High Fever
+36.5,Normal
+37.7,Mild Fever
+37.9,Mild Fever
+38.4,Mild Fever
+36.5,Normal
+40.8,High Fever
+39.2,High Fever
+39.1,High Fever
+37.1,Normal
+39.5,High Fever
+37.8,Mild Fever
+39.0,High Fever
+39.9,High Fever
+40.9,High Fever
+39.7,High Fever
+36.0,Normal
+41.3,High Fever
+38.6,High Fever
+40.0,High Fever
+41.3,High Fever
+41.1,High Fever
+37.8,Mild Fever
+37.3,Normal
+39.1,High Fever
+36.8,Normal
+40.5,High Fever
+38.3,Mild Fever
+39.1,High Fever
+40.6,High Fever
+41.3,High Fever
+37.5,Normal
+36.8,Normal
+40.1,High Fever
+40.8,High Fever
+40.2,High Fever
+37.9,Mild Fever
+37.7,Mild Fever
+39.0,High Fever
+36.7,Normal
+37.1,Normal
+37.9,Mild Fever
+36.9,Normal
+37.8,Mild Fever
+38.5,Mild Fever
+37.7,Mild Fever
+41.1,High Fever
+38.0,Mild Fever
+38.0,Mild Fever
+37.7,Mild Fever
+38.0,Mild Fever
+39.6,High Fever
+38.3,Mild Fever
+38.5,Mild Fever
+38.9,High Fever
+39.2,High Fever
+39.9,High Fever
+37.9,Mild Fever
+37.4,Normal
+40.2,High Fever
+37.4,Normal
+40.6,High Fever
+39.1,High Fever
+41.2,High Fever
+38.6,High Fever
+36.8,Normal
+38.1,Mild Fever
+37.9,Mild Fever
+36.7,Normal
+36.3,Normal
+36.9,Normal
+41.1,High Fever
+40.5,High Fever
+40.8,High Fever
+36.8,Normal
+40.5,High Fever
+40.6,High Fever
+40.0,High Fever
+37.7,Mild Fever
+37.3,Normal
+37.1,Normal
+37.3,Normal
+36.3,Normal
+41.0,High Fever
+38.4,Mild Fever
+39.3,High Fever
+37.9,Mild Fever
+39.7,High Fever
+38.3,Mild Fever
+38.7,High Fever
+40.5,High Fever
+36.3,Normal
+37.5,Normal
+39.6,High Fever
+38.1,Mild Fever
+37.2,Normal
+36.4,Normal
+37.9,Mild Fever
+40.4,High Fever
+41.2,High Fever
+36.2,Normal
+40.8,High Fever
+41.3,High Fever
+39.0,High Fever
+36.9,Normal
+36.8,Normal
+38.5,Mild Fever
+36.7,Normal
+36.7,Normal
+41.2,High Fever
+38.8,High Fever
+38.7,High Fever
+39.8,High Fever
+37.9,Mild Fever
+39.4,High Fever
+39.0,High Fever
+37.9,Mild Fever
+38.3,Mild Fever
+40.3,High Fever
+40.7,High Fever
+37.8,Mild Fever
+36.9,Normal
+37.8,Mild Fever
+37.6,Mild Fever
+40.0,High Fever
+39.0,High Fever
+38.6,High Fever
+39.8,High Fever
+38.0,Mild Fever
+38.9,High Fever
+40.1,High Fever
+37.9,Mild Fever
+40.0,High Fever
+38.8,High Fever
+40.5,High Fever
+37.7,Mild Fever
+37.9,Mild Fever
+39.6,High Fever
+40.0,High Fever
+38.5,Mild Fever
+41.1,High Fever
+38.8,High Fever
+38.6,High Fever
+38.0,Mild Fever
+38.7,High Fever
+37.3,Normal
+36.2,Normal
+40.3,High Fever
+40.9,High Fever
+39.3,High Fever
+40.3,High Fever
+41.3,High Fever
+38.3,Mild Fever
+39.8,High Fever
+36.7,Normal
+38.8,High Fever
+38.9,High Fever
+38.5,Mild Fever
+38.0,Mild Fever
+40.1,High Fever
+41.4,High Fever
+37.1,Normal
+37.1,Normal
+40.4,High Fever
+39.7,High Fever
+39.8,High Fever
+36.8,Normal
+36.8,Normal
+41.5,High Fever
+39.2,High Fever
+40.8,High Fever
+36.2,Normal
+40.1,High Fever
+36.2,Normal
+41.2,High Fever
+39.2,High Fever
+36.4,Normal
+40.4,High Fever
+37.3,Normal
+37.0,Normal
+39.7,High Fever
+36.7,Normal
+38.5,Mild Fever
+39.2,High Fever
+40.5,High Fever
+38.8,High Fever
+40.9,High Fever
+40.6,High Fever
+36.1,Normal
+37.7,Mild Fever
+41.4,High Fever
+37.7,Mild Fever
+37.9,Mild Fever
+39.2,High Fever
+38.0,Mild Fever
+39.6,High Fever
+38.8,High Fever
+40.8,High Fever
+37.9,Mild Fever
+40.7,High Fever
+37.2,Normal
+39.4,High Fever
+36.1,Normal
+41.5,High Fever
+40.0,High Fever
+39.1,High Fever
+37.7,Mild Fever
+41.0,High Fever
+37.3,Normal
+40.6,High Fever
+37.4,Normal
+41.0,High Fever
+36.7,Normal
+38.4,Mild Fever
+36.3,Normal
+37.0,Normal
+38.1,Mild Fever
+38.2,Mild Fever
+39.9,High Fever
+40.8,High Fever
+37.5,Normal
+38.2,Mild Fever
+37.3,Normal
+40.7,High Fever
+38.5,Mild Fever
+36.7,Normal
+36.4,Normal
+41.0,High Fever
+37.3,Normal
+41.5,High Fever
+37.8,Mild Fever
+41.2,High Fever
+41.0,High Fever
+38.0,Mild Fever
+39.6,High Fever
+36.9,Normal
+39.2,High Fever
+40.3,High Fever
+36.4,Normal
+38.1,Mild Fever
+38.2,Mild Fever
+36.5,Normal
+39.2,High Fever
+36.2,Normal
+38.1,Mild Fever
+38.7,High Fever
+41.3,High Fever
+36.6,Normal
+38.7,High Fever
+37.8,Mild Fever
+38.6,High Fever
+40.7,High Fever
+38.0,Mild Fever
+41.3,High Fever
+36.9,Normal
+41.0,High Fever
+37.1,Normal
+40.7,High Fever
+38.0,Mild Fever
+36.3,Normal
+40.9,High Fever
+38.3,Mild Fever
+36.8,Normal
+36.4,Normal
+36.4,Normal
+37.8,Mild Fever
+36.1,Normal
+36.4,Normal
+41.3,High Fever
+38.5,Mild Fever
+36.7,Normal
+38.5,Mild Fever
+38.5,Mild Fever
+37.4,Normal
+38.6,High Fever
+39.1,High Fever
+37.1,Normal
+36.7,Normal
+39.2,High Fever
+39.9,High Fever
+40.7,High Fever
+37.2,Normal
+37.3,Normal
+36.4,Normal
+41.3,High Fever
+41.2,High Fever
+37.1,Normal
+37.1,Normal
+37.6,Mild Fever
+41.1,High Fever
+40.3,High Fever
+37.6,Mild Fever
+39.4,High Fever
+41.5,High Fever
+40.8,High Fever
+37.6,Mild Fever
+38.9,High Fever
+39.7,High Fever
+40.2,High Fever
+40.4,High Fever
+41.2,High Fever
+41.0,High Fever
+40.7,High Fever
+36.4,Normal
+36.5,Normal
+36.6,Normal
+37.2,Normal
+39.4,High Fever
+37.0,Normal
+36.4,Normal
+36.9,Normal
+38.6,High Fever
+40.5,High Fever
+38.2,Mild Fever
+36.9,Normal
+38.0,Mild Fever
+40.6,High Fever
+41.0,High Fever
+36.7,Normal
+36.6,Normal
+40.5,High Fever
+38.1,Mild Fever
+38.2,Mild Fever
+36.4,Normal
+41.4,High Fever
+40.2,High Fever
+40.1,High Fever
+36.0,Normal
+39.7,High Fever
+41.4,High Fever
+40.7,High Fever
+39.4,High Fever
+40.9,High Fever
+36.6,Normal
+41.1,High Fever
+39.2,High Fever
+36.3,Normal
+41.4,High Fever
+40.3,High Fever
+37.1,Normal
+39.8,High Fever
+38.9,High Fever
+40.7,High Fever
+37.6,Mild Fever
+37.3,Normal
+39.7,High Fever
+39.2,High Fever
+40.2,High Fever
+36.1,Normal
+40.0,High Fever
+36.9,Normal
+37.3,Normal
+37.3,Normal
+38.9,High Fever
+39.9,High Fever
+38.0,Mild Fever
+36.9,Normal
+40.8,High Fever
+40.2,High Fever
+38.6,High Fever
+37.3,Normal
+36.1,Normal
+41.0,High Fever
+39.8,High Fever
+36.4,Normal
+36.6,Normal
+38.9,High Fever
+39.1,High Fever
+39.9,High Fever
+37.0,Normal
+37.2,Normal
+41.3,High Fever
+40.9,High Fever
+38.2,Mild Fever
+40.3,High Fever
+41.2,High Fever
+41.0,High Fever
+37.9,Mild Fever
+36.4,Normal
+37.2,Normal
+40.7,High Fever
+39.5,High Fever
+37.7,Mild Fever
+38.1,Mild Fever
+37.3,Normal
+40.6,High Fever
+39.5,High Fever
+39.2,High Fever
+38.0,Mild Fever
+37.7,Mild Fever
+36.5,Normal
+36.7,Normal
+40.8,High Fever
+38.7,High Fever
+41.3,High Fever
+37.1,Normal
+38.9,High Fever
+40.6,High Fever
+37.7,Mild Fever
+37.7,Mild Fever
+38.4,Mild Fever
+38.4,Mild Fever
+39.6,High Fever
+38.2,Mild Fever
+38.7,High Fever
+37.1,Normal
+41.0,High Fever
+40.3,High Fever
+40.9,High Fever
+40.9,High Fever
+36.2,Normal
+37.6,Mild Fever
+39.3,High Fever
+40.2,High Fever
+37.9,Mild Fever
+37.8,Mild Fever
+41.1,High Fever
+40.0,High Fever
+38.0,Mild Fever
+40.4,High Fever
+37.2,Normal
+37.4,Normal
+39.7,High Fever
+39.2,High Fever
+38.2,Mild Fever
+40.2,High Fever
+36.7,Normal
+40.7,High Fever
+40.9,High Fever
+40.7,High Fever
+36.8,Normal
+37.0,Normal
+39.5,High Fever
+38.6,High Fever
+36.9,Normal
+36.2,Normal
+37.0,Normal
+39.0,High Fever
+38.6,High Fever
+38.1,Mild Fever
+39.8,High Fever
+36.2,Normal
+39.3,High Fever
+36.1,Normal
+37.6,Mild Fever
+38.2,Mild Fever
+41.0,High Fever
+40.7,High Fever
+36.6,Normal
+38.7,High Fever
+36.0,Normal
+36.7,Normal
+36.7,Normal
+40.1,High Fever
+40.6,High Fever
+40.2,High Fever
+37.2,Normal
+38.1,Mild Fever
+38.4,Mild Fever
+39.0,High Fever
+36.9,Normal
+40.7,High Fever
+38.2,Mild Fever
+37.7,Mild Fever
+39.2,High Fever
+37.4,Normal
+36.8,Normal
+36.2,Normal
+40.7,High Fever
+37.0,Normal
+38.0,Mild Fever
+39.7,High Fever
+36.3,Normal
+40.7,High Fever
+39.5,High Fever
+40.2,High Fever
+39.3,High Fever
+40.5,High Fever
+39.5,High Fever
+38.2,Mild Fever
+38.8,High Fever
+39.3,High Fever
+41.1,High Fever
+40.4,High Fever
+37.2,Normal
+37.9,Mild Fever
+41.0,High Fever
+39.8,High Fever
+40.2,High Fever
+40.5,High Fever
+40.1,High Fever
+38.3,Mild Fever
+38.4,Mild Fever
+41.2,High Fever
+40.6,High Fever
+38.4,Mild Fever
+39.4,High Fever
+36.3,Normal
+41.3,High Fever
+41.2,High Fever
+40.1,High Fever
+39.7,High Fever
+38.8,High Fever
+40.7,High Fever
+40.0,High Fever
+37.6,Mild Fever
+38.7,High Fever
+40.4,High Fever
+37.5,Normal
+36.4,Normal
+40.6,High Fever
+39.7,High Fever
+40.0,High Fever
+38.5,Mild Fever
+40.4,High Fever
+38.2,Mild Fever
+38.5,Mild Fever
+38.9,High Fever
+37.8,Mild Fever
+38.2,Mild Fever
+40.0,High Fever
+40.8,High Fever
+38.5,Mild Fever
+36.2,Normal
+39.6,High Fever
+39.0,High Fever
+39.7,High Fever
+36.6,Normal
+36.7,Normal
+36.5,Normal
+37.4,Normal
+39.8,High Fever
+40.6,High Fever
+38.9,High Fever
+38.9,High Fever
+37.4,Normal
+38.4,Mild Fever
+37.1,Normal
+38.0,Mild Fever
+38.0,Mild Fever
+37.0,Normal
+38.8,High Fever
+40.5,High Fever
+39.4,High Fever
+36.2,Normal
+40.0,High Fever
+40.8,High Fever
+36.0,Normal
+37.2,Normal
+36.8,Normal
+40.5,High Fever
+37.1,Normal
+39.2,High Fever
+37.9,Mild Fever
+39.7,High Fever
+37.6,Mild Fever
+36.9,Normal
+37.4,Normal
+41.2,High Fever
+36.6,Normal
+37.0,Normal
+37.8,Mild Fever
+37.1,Normal
+40.3,High Fever
+39.7,High Fever
+39.3,High Fever
+38.3,Mild Fever
+39.0,High Fever
+40.5,High Fever
+39.5,High Fever
+37.5,Normal
+37.5,Normal
+39.0,High Fever
+39.2,High Fever
+37.0,Normal
+40.1,High Fever
+36.0,Normal
+38.3,Mild Fever
+39.4,High Fever
+40.3,High Fever
+39.5,High Fever
+38.6,High Fever
+38.7,High Fever
+38.3,Mild Fever
+36.0,Normal
+40.2,High Fever
+36.8,Normal
+41.1,High Fever
+40.7,High Fever
+38.2,Mild Fever
+40.1,High Fever
+39.5,High Fever
+39.4,High Fever
+40.4,High Fever
+40.1,High Fever
+40.3,High Fever
+38.8,High Fever
+39.8,High Fever
+37.1,Normal
+39.9,High Fever
+41.1,High Fever
+40.7,High Fever
+37.0,Normal
+40.9,High Fever
+37.9,Mild Fever
+38.2,Mild Fever
+38.4,Mild Fever
+40.7,High Fever
+40.9,High Fever
+41.3,High Fever
+36.2,Normal
+40.5,High Fever
+37.7,Mild Fever
+40.3,High Fever
+36.4,Normal
+36.8,Normal
+41.2,High Fever
+38.8,High Fever
+39.9,High Fever
+36.5,Normal
+39.3,High Fever
+37.2,Normal
+36.3,Normal
+38.5,Mild Fever
+40.6,High Fever
+40.6,High Fever
+40.3,High Fever
+41.3,High Fever
+37.1,Normal
+38.9,High Fever
+36.7,Normal
+37.9,Mild Fever
+37.5,Normal
+38.6,High Fever
+39.9,High Fever
+39.3,High Fever
+38.2,Mild Fever
+38.6,High Fever
+40.9,High Fever
+39.6,High Fever
+37.1,Normal
+37.5,Normal
+39.6,High Fever
+40.0,High Fever
+40.8,High Fever
+36.5,Normal
+37.3,Normal
+40.1,High Fever
+36.2,Normal
+39.1,High Fever
+36.8,Normal
+41.5,High Fever
+36.3,Normal
+41.2,High Fever
+40.9,High Fever
+36.2,Normal
+36.6,Normal
+36.5,Normal
+39.6,High Fever
+41.4,High Fever
+38.5,Mild Fever
+38.2,Mild Fever
+40.0,High Fever
+39.4,High Fever
+40.9,High Fever
+40.1,High Fever
+37.1,Normal
+39.5,High Fever
+39.2,High Fever
+39.0,High Fever
+40.3,High Fever
+41.2,High Fever
+36.4,Normal
+37.4,Normal
+41.0,High Fever
+40.5,High Fever
+39.5,High Fever
+36.0,Normal
+38.0,Mild Fever
+41.0,High Fever
+37.5,Normal
+38.1,Mild Fever
+41.4,High Fever
+38.8,High Fever
+37.0,Normal
+37.2,Normal
+41.0,High Fever
+41.1,High Fever
+36.9,Normal
+39.4,High Fever
+38.6,High Fever
+40.6,High Fever
+40.3,High Fever
+40.2,High Fever
+38.7,High Fever
+36.7,Normal
+37.7,Mild Fever
+40.8,High Fever
+40.9,High Fever
+37.2,Normal
+40.4,High Fever
+40.8,High Fever
+36.2,Normal
+37.7,Mild Fever
+40.3,High Fever
+37.0,Normal
+41.3,High Fever
+38.9,High Fever
+39.5,High Fever
+36.5,Normal
+40.9,High Fever
+40.7,High Fever
+40.1,High Fever
+39.5,High Fever
+36.4,Normal
+37.6,Mild Fever
+39.0,High Fever
+39.8,High Fever
+39.4,High Fever
+38.9,High Fever
+39.0,High Fever
+41.0,High Fever
+38.0,Mild Fever
+41.0,High Fever
+39.7,High Fever
+38.2,Mild Fever
+36.1,Normal
+39.4,High Fever
+36.5,Normal
+38.3,Mild Fever
+39.1,High Fever
+38.4,Mild Fever
+39.6,High Fever
+40.2,High Fever
+39.2,High Fever
+37.8,Mild Fever
+41.5,High Fever
+37.5,Normal
+41.0,High Fever
+38.8,High Fever
+37.6,Mild Fever
+39.7,High Fever
+37.7,Mild Fever
+38.6,High Fever
+36.3,Normal
+38.5,Mild Fever
+40.2,High Fever
+38.9,High Fever
+39.1,High Fever
+37.3,Normal
+40.1,High Fever
+40.8,High Fever
+37.6,Mild Fever
+36.7,Normal
+39.4,High Fever
+41.1,High Fever
+38.2,Mild Fever
+40.6,High Fever
+41.0,High Fever
+38.3,Mild Fever
+36.9,Normal
+40.7,High Fever
+41.0,High Fever
+38.6,High Fever
+39.7,High Fever
+40.5,High Fever
+36.3,Normal
+37.2,Normal
+40.0,High Fever
+40.9,High Fever
+40.6,High Fever
+37.3,Normal
+39.5,High Fever
+38.2,Mild Fever
+37.4,Normal
+39.8,High Fever
+37.7,Mild Fever
+41.2,High Fever
+37.3,Normal
+40.1,High Fever
+38.8,High Fever
+40.5,High Fever
+36.1,Normal
+36.5,Normal
+37.3,Normal
+40.3,High Fever
+39.1,High Fever
+38.1,Mild Fever
+38.5,Mild Fever
+38.7,High Fever
+38.3,Mild Fever
+38.5,Mild Fever
+37.7,Mild Fever
+36.8,Normal
+39.3,High Fever
+38.6,High Fever
+38.7,High Fever
+36.8,Normal
+39.0,High Fever
+39.7,High Fever
+39.9,High Fever
+40.4,High Fever
+36.7,Normal
+37.4,Normal
+40.4,High Fever
+37.7,Mild Fever
+41.3,High Fever
+38.8,High Fever
+40.8,High Fever
+40.0,High Fever
+39.5,High Fever
+38.6,High Fever
+38.8,High Fever
+37.4,Normal
+39.2,High Fever
+38.5,Mild Fever
+36.5,Normal
+38.7,High Fever
+37.3,Normal
+38.6,High Fever
+39.7,High Fever
+40.9,High Fever
+36.5,Normal
+37.7,Mild Fever
+36.4,Normal
+40.9,High Fever
+37.9,Mild Fever
+37.1,Normal
+38.3,Mild Fever
+41.0,High Fever
+40.3,High Fever
+38.3,Mild Fever
+37.5,Normal
+40.6,High Fever
+39.2,High Fever
+38.0,Mild Fever
+36.6,Normal
+40.3,High Fever
+37.7,Mild Fever
+39.9,High Fever
+36.3,Normal
+37.7,Mild Fever
+38.3,Mild Fever
+38.7,High Fever
+38.7,High Fever
+39.7,High Fever
+38.1,Mild Fever
+39.0,High Fever
+36.1,Normal
+37.0,Normal
+38.4,Mild Fever
+36.4,Normal
+37.2,Normal
+36.4,Normal
+40.5,High Fever
+39.2,High Fever
+41.1,High Fever
+37.0,Normal
+39.1,High Fever
+36.3,Normal
+39.8,High Fever
+41.4,High Fever
+38.2,Mild Fever
+36.2,Normal
+37.2,Normal
+38.0,Mild Fever
+40.2,High Fever
+36.2,Normal
+36.8,Normal
+37.3,Normal
+37.6,Mild Fever
+39.4,High Fever
+37.3,Normal
+39.2,High Fever
+40.7,High Fever
+38.4,Mild Fever
+39.8,High Fever
+39.5,High Fever
+36.2,Normal
+38.4,Mild Fever
+37.0,Normal
+36.7,Normal
+37.0,Normal
+37.9,Mild Fever
+37.0,Normal
+41.5,High Fever
+37.9,Mild Fever
+38.7,High Fever
+37.5,Normal
+41.2,High Fever
+38.6,High Fever
+40.7,High Fever
+37.5,Normal
+37.2,Normal
+36.3,Normal
+38.4,Mild Fever
+41.3,High Fever
+38.7,High Fever
+36.7,Normal
+36.9,Normal
+37.0,Normal
+38.1,Mild Fever
+38.6,High Fever
+41.0,High Fever
+41.3,High Fever
+38.7,High Fever
+38.6,High Fever
+36.8,Normal
+38.1,Mild Fever
+36.7,Normal
+38.7,High Fever
+36.5,Normal
+38.4,Mild Fever
+40.3,High Fever
+36.8,Normal
+38.3,Mild Fever
+40.9,High Fever
+38.5,Mild Fever
+40.4,High Fever
+38.5,Mild Fever
+38.8,High Fever
+41.4,High Fever
+39.3,High Fever
+39.1,High Fever
+37.5,Normal
+39.4,High Fever
+38.1,Mild Fever
+40.4,High Fever
+38.0,Mild Fever
+40.6,High Fever
+39.5,High Fever
+39.9,High Fever
+36.7,Normal
+37.1,Normal
+38.0,Mild Fever
+36.4,Normal
+36.9,Normal
+39.5,High Fever
+40.0,High Fever
+40.1,High Fever
+36.8,Normal
+38.7,High Fever
+38.5,Mild Fever
+40.2,High Fever
+39.9,High Fever
+39.2,High Fever
+36.7,Normal
+39.4,High Fever
+36.5,Normal
+39.2,High Fever
+37.2,Normal
+37.9,Mild Fever
+37.7,Mild Fever
+36.4,Normal
+41.4,High Fever
+38.5,Mild Fever
+38.3,Mild Fever
+37.2,Normal
+40.0,High Fever
+40.0,High Fever
+41.1,High Fever
+40.6,High Fever
+36.4,Normal
+40.0,High Fever
+41.3,High Fever
+36.9,Normal
+37.9,Mild Fever
+41.3,High Fever
+38.6,High Fever
+41.0,High Fever
+39.2,High Fever
+39.8,High Fever
+39.8,High Fever
+41.3,High Fever
+38.8,High Fever
+41.0,High Fever
+39.7,High Fever
+39.5,High Fever
+36.9,Normal
+37.8,Mild Fever
+40.8,High Fever
+39.5,High Fever
+37.7,Mild Fever
+38.9,High Fever
+39.3,High Fever
+38.7,High Fever
+39.3,High Fever
+40.5,High Fever
+39.9,High Fever
+38.7,High Fever
+36.6,Normal
+40.9,High Fever
+40.8,High Fever
+36.5,Normal
+41.2,High Fever
+40.4,High Fever
+38.1,Mild Fever
+37.0,Normal
+36.9,Normal
